@@ -1,0 +1,6 @@
+Dizi: [7, 3, 5, 8, 2, 9, 4, 15, 6]
+
+1. Adım: En küçük 2 → 7 ile yer değiştir → [2, 3, 5, 8, 7, 9, 4, 15, 6]
+2. Adım: En küçük 3 → zaten yerinde → [2, 3, 5, 8, 7, 9, 4, 15, 6]
+3. Adım: En küçük 4 → 5 ile yer değiştir → [2, 3, 4, 8, 7, 9, 5, 15, 6]
+4. Adım: En küçük 5 → 8 ile yer değiştir → [2, 3, 4, 5, 7, 9, 8, 15, 6]
